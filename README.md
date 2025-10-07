@@ -1,3 +1,3 @@
-This is a Python, ML end to emd Project
+This is a Python, ML end to end Project.
 
 Like this Project!:)
