@@ -1,4 +1,8 @@
+<div align="center">
+
 # Iris Flower Classification
+
+</div>
 
 <p align="center">
   <strong>A visual, notebook-first exploration of the Iris dataset</strong><br>
